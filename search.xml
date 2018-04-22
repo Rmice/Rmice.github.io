@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[资料、链接]]></title>
+    <url>%2F2018%2F04%2F22%2F%E8%B5%84%E6%96%99%E3%80%81%E9%93%BE%E6%8E%A5%2F</url>
+    <content type="text"><![CDATA[我就得有必要把看见的大神的链接做个收集，分类。hexo搭建博客小白第一步链接hexo的配置]]></content>
+      <tags>
+        <tag>链接、资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo搭建个人博客]]></title>
+    <url>%2F2018%2F04%2F22%2Fhexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[跟着一步一步来大神博客: hexo 插入代码要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以。function(){ /*这里用的Tab a=100;b=6; c=a+b; } ddd这里就不是代码了 /*这里是用的四个空格 public void class{ println(“nmb”); } 头像设置编辑 主题配置文件avatar: /images/avatar.png next主题下有images更改里面的avatar.gif为你想要的方式。某牛可以管理图片，但是注册，实名认证（上传身份证）比较麻烦。 遗留问题1、图片加载？]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[我的第一篇博客]]></title>
     <url>%2F2018%2F04%2F22%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[这是 H1这是 H2这是 H6 这是 H1这是 H2这是 H6]]></content>
