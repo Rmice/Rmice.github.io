@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[日记功能测试；小书虫]]></title>
     <url>%2F2018%2F04%2F23%2F%E6%97%A5%E8%AE%B0%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%2F</url>
-    <content type="text"><![CDATA[添加新功能1..yml下添加新menu； photo: categories/diary2.zh-Hans.xml下添加新的文字解析3.测试：写一篇，并分类为diary。4.事实证明很成功：如图： 截图]]></content>
+    <content type="text"><![CDATA[添加新功能1..yml下添加新menu； photo: categories/diary2.zh-Hans.xml下添加新的文字解析3.测试：写一篇，并分类为diary。4.事实证明很成功：如图：]]></content>
       <categories>
         <category>diary</category>
       </categories>

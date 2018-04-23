@@ -23,7 +23,7 @@
     <published>2018-04-23T01:23:35.000Z</published>
     <updated>2018-04-23T01:32:36.805Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="添加新功能"><a href="#添加新功能" class="headerlink" title="添加新功能"></a>添加新功能</h3><p>1..yml下添加新menu；<br>    photo: categories/diary<br>2.zh-Hans.xml下添加新的文字解析<br>3.测试：写一篇，并分类为diary。<br>4.事实证明很成功：<br>如图：<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="./images/1524447094716.jpg" alt="截图" title="">                </div>                <div class="image-caption">截图</div>            </figure></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="添加新功能"><a href="#添加新功能" class="headerlink" title="添加新功能"></a>添加新功能</h3><p>1..yml下添加新menu；<br>    photo: categories/diary<br>2.zh-Hans.xml下添加新的文字解析<br>3.测试：写一篇，并分类为diary。<br>4.事实证明很成功：<br>如图：<br><img src="./images/1524447094716.jpg" alt="截图"></p>]]></content>
     
     <summary type="html">
     
