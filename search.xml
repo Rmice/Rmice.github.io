@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关于MarkDown的一些感受]]></title>
+    <url>%2F2018%2F04%2F22%2F%E5%85%B3%E4%BA%8EMarkDown%E7%9A%84%E6%84%9F%E5%8F%97%2F</url>
+    <content type="text"><![CDATA[Markdown刚开始觉得很害怕，不会是要学个编程语言吧。想想就头疼然后，2个小时后发现完全不是这样。这里有个关于Markdown的介绍写得很简单易懂。 语法小结 标题 列表；有序列表和无序列表的区别。 引用；文本前加 &gt; 即可。 图片与链接；![添加描述]（链接） 即可点击描述访问链接。 粗体与斜体；粗体 ；斜体； 表格。Pandoc]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>链接、资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[资料、链接]]></title>
     <url>%2F2018%2F04%2F22%2F%E8%B5%84%E6%96%99%E3%80%81%E9%93%BE%E6%8E%A5%2F</url>
     <content type="text"><![CDATA[我就得有必要把看见的大神的链接做个收集，分类。hexo搭建博客小白第一步链接hexo的配置]]></content>
