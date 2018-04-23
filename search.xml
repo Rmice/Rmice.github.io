@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[日记功能测试；小书虫]]></title>
+    <url>%2F2018%2F04%2F23%2F%E6%97%A5%E8%AE%B0%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[添加新功能1..yml下添加新menu； photo: categories/diary2.zh-Hans.xml下添加新的文字解析3.测试：写一篇，并分类为diary。4.事实证明很成功：如图： 截图]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[关于MarkDown的一些感受]]></title>
     <url>%2F2018%2F04%2F22%2F%E5%85%B3%E4%BA%8EMarkDown%E7%9A%84%E6%84%9F%E5%8F%97%2F</url>
     <content type="text"><![CDATA[Markdown刚开始觉得很害怕，不会是要学个编程语言吧。想想就头疼然后，2个小时后发现完全不是这样。这里有个关于Markdown的介绍写得很简单易懂。 语法小结 标题 列表；有序列表和无序列表的区别。 引用；文本前加 &gt; 即可。 图片与链接；![添加描述]（链接） 即可点击描述访问链接。 粗体与斜体；粗体 ；斜体； 表格。Pandoc]]></content>
@@ -14,7 +26,7 @@
   <entry>
     <title><![CDATA[资料、链接]]></title>
     <url>%2F2018%2F04%2F22%2F%E8%B5%84%E6%96%99%E3%80%81%E9%93%BE%E6%8E%A5%2F</url>
-    <content type="text"><![CDATA[我就得有必要把看见的大神的链接做个收集，分类。hexo搭建博客小白第一步链接hexo的配置]]></content>
+    <content type="text"><![CDATA[我就得有必要把看见的大神的链接做个收集，分类。hexo搭建博客小白第一步链接hexo的配置进阶：主题indigo配置]]></content>
       <tags>
         <tag>链接、资料</tag>
       </tags>
@@ -23,6 +35,9 @@
     <title><![CDATA[hexo搭建个人博客]]></title>
     <url>%2F2018%2F04%2F22%2Fhexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[跟着一步一步来大神博客: hexo 插入代码要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以。function(){ /*这里用的Tab a=100;b=6; c=a+b; } ddd这里就不是代码了 /*这里是用的四个空格 public void class{ println(“nmb”); } 头像设置编辑 主题配置文件avatar: /images/avatar.png next主题下有images更改里面的avatar.gif为你想要的方式。某牛可以管理图片，但是注册，实名认证（上传身份证）比较麻烦。 遗留问题1、图片加载？]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>github</tag>
