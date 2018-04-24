@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[游戏的分类]]></title>
     <url>%2F2018%2F04%2F24%2F%E6%B8%B8%E6%88%8F%E5%88%86%E7%B1%BB%2F</url>
-    <content type="text"><![CDATA[游戏分类RPG：角色扮演游戏玩家扮演一个或数个角色，有完整的故事情节。更强调剧情发展和个人体验。eg：《梦幻西游》日式（回合制）；《暗黑破坏神》美式。 ACT：动作游戏玩家控制游戏人物消灭敌人以过关的游戏，不追求情节。eg：《魂斗罗》《三国志》 AVG：冒险游戏由玩家控制游戏人物进行虚拟冒险的游戏。可以强调解谜题的重要性。eg：《生化危机》 此处略去一万字FPS:第一人称视角射击游戏动作游戏的分支：eg：《使命召唤》《cs》《守望先锋》 MOBA：多人在线战术竞技游戏即时战略游戏的子类eg：《英雄联盟》《dota》]]></content>
+    <content type="text"><![CDATA[游戏分类RPG：角色扮演游戏玩家扮演一个或数个角色，有完整的故事情节。更强调剧情发展和个人体验。eg：《梦幻西游》日式（回合制）；《暗黑破坏神》美式。 ACT：动作游戏玩家控制游戏人物消灭敌人以过关的游戏，不追求情节。eg：《魂斗罗》《三国志》 AVG：冒险游戏由玩家控制游戏人物进行虚拟冒险的游戏。可以强调解谜题的重要性。eg：《生化危机》 此处略去一万字FPS:第一人称视角射击游戏动作游戏的分支：eg：《使命召唤》《cs》《守望先锋》 MOBA：多人在线战术竞技游戏即时战略游戏的子类eg：《英雄联盟》《dota》 * [游戏分类](#游戏分类) * [RPG：角色扮演游戏](#rpg角色扮演游戏) * [ACT：动作游戏](#act动作游戏) * [AVG：冒险游戏](#avg冒险游戏) * [此处略去一万字](#此处略去一万字) * [FPS:第一人称视角射击游戏](#fps第一人称视角射击游戏) * [MOBA：多人在线战术竞技游戏](#moba多人在线战术竞技游戏)]]></content>
       <categories>
         <category>games</category>
       </categories>
@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[vim的简单使用]]></title>
     <url>%2F2018%2F04%2F24%2Fvim%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%2F</url>
-    <content type="text"><![CDATA[vim编辑器的使用：模式切换在命令模式下，我们可以直接按 i ,此时就会切换到编辑模式。在编辑模式下，按 esc 就可以切换到命令模式。 常用命令下面介绍几个常用的命令，都是在命令模式下，输入 ==:+==命令使用1.q 退出编辑，如果文本内容被修改过，则会报错2.q! 强制退出编辑，如果文本内容被修改过，会丢弃此次的修改3.x 退出编辑并保存。还有一些命令可以在命令模式下直接执行，不需要在前面输入 :符号比如dd命令会删除当前行，i命令会切换到编辑模式。也正是因为这些命令的存在，所以在需要修改文本前，一定要记得先按 i 进入编辑模式，不然命令和文本输入会搞混。]]></content>
+    <content type="text"><![CDATA[vim编辑器的使用：模式切换在命令模式下，我们可以直接按 i ,此时就会切换到编辑模式。在编辑模式下，按 esc 就可以切换到命令模式。 常用命令下面介绍几个常用的命令，都是在命令模式下，输入 ==:+ #801400==命令使用1.q 退出编辑，如果文本内容被修改过，则会报错.2.q! 强制退出编辑，如果文本内容被修改过，会丢弃此次的修改3.x 退出编辑并保存。还有一些命令可以在命令模式下直接执行，不需要在前面输入 :符号比如dd命令会删除当前行，i命令会切换到编辑模式。也正是因为这些命令的存在，所以在需要修改文本前，一定要记得先按 i 进入编辑模式，不然命令和文本输入会搞混。]]></content>
       <categories>
         <category>vim</category>
       </categories>
@@ -23,14 +23,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Evenote+hexo搭建博客]]></title>
-    <url>%2F2018%2F04%2F24%2Fevernoe%2Bhexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[放链接，时间顺序 参考1参考2参考3 补充vim的简单使用 关于Appdate文件夹默认是隐藏的。npm装的东西也都在这个文件之下。]]></content>
+    <title><![CDATA[Everblog印象笔记写GithubPage的博客]]></title>
+    <url>%2F2018%2F04%2F24%2FEvernote%2Bhexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[先决条件使用GithubPage搭建自己的博客 需要解决的问题这时大部分人选择的都是一款工具来写MarkDown。当然，即使是最简单的文本编辑器也是可以支持Md的编辑的。 但是，对于一个印象笔记的重度用户，==如果一个笔记本组对应你的博客；一篇笔记对应你的一篇博文。== 这样就可以写完一篇笔记后同步到你的博客上。岂不是美滋滋？ 操作方式使用 Hexo 主题完整步骤如下： 123456789$ npm i hexo-cli -g # 全局安装 hexo-cli$ hexo init myblog # 初始化一个 hexo 项目$ cd myblog &amp;&amp; npm i # 安装依赖$ npm i everblog -g # 全局安装 everblog$ npm i everblog-adaptor-hexo --save # 在当前 hexo 项目下安装 adaptor$ echo "module.exports = require('everblog-adaptor-hexo')" &gt; index.js # 在当前 hexo 项目下创建 index.js，引入 adaptor$ DEBUG=* everblog build # 使用 everblog 构建 hexo 所需文件$ hexo server # 启动 hexo$ open http://localhost:4000/ # 浏览器打开博客主页 链接时间先后顺序：貌似是开发者本人写的；基于上者的另一种方式；基于前两者写的. 补充印象笔记获取token]]></content>
       <categories>
-        <category>Hexo</category>
+        <category>hexo</category>
       </categories>
       <tags>
-        <tag>Evenote</tag>
+        <tag>Github</tag>
         <tag>hexo</tag>
       </tags>
   </entry>
@@ -43,6 +43,17 @@
       </categories>
       <tags>
         <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[三国]]></title>
+    <url>%2F2018%2F04%2F24%2F%E4%B8%89%E5%9B%BD%2F</url>
+    <content type="text"><![CDATA[各个版本的影视三国动画版中日两国合作制作的动画片，已于2009年在中国上映。北京辉煌动画、央视动画、日本未来行星株式会社。优点：1.真喜欢这样的画风，感觉这才是国漫应有的风格。2.取舍有度，节奏紧凑。酣畅淋漓。 缺点：1.英雄史观；这个不多说，毕竟是小孩子看的动画片。2.群演都是一个脸。这就尴尬了，什么十胞胎侍女；诸葛亮舌战百兄弟。 老三国占坑新三国占坑游戏真三国无双五《真·三国无双》系列日本光荣株式会社出品2000年开始发售，自此以后遍地生花。 ps：没玩过QAQ。 三国杀重大历史事件时间顺序1.2.桃园三结义2.]]></content>
+      <categories>
+        <category>history</category>
+      </categories>
+      <tags>
+        <tag>历史，三国</tag>
       </tags>
   </entry>
   <entry>
@@ -60,7 +71,7 @@
   <entry>
     <title><![CDATA[关于MarkDown的一些感受]]></title>
     <url>%2F2018%2F04%2F22%2F%E5%85%B3%E4%BA%8EMarkDown%E7%9A%84%E6%84%9F%E5%8F%97%2F</url>
-    <content type="text"><![CDATA[Markdown刚开始觉得很害怕，不会是要学个编程语言吧。想想就头疼然后，2个小时后发现完全不是这样。这里有个关于Markdown的介绍写得很简单易懂。 语法小结 标题 列表；有序列表和无序列表的区别。 引用；文本前加 &gt; 即可。 图片与链接；![添加描述]（链接） 即可点击描述访问链接。 粗体与斜体；粗体 ；斜体； 表格。Pandoc]]></content>
+    <content type="text"><![CDATA[Markdown刚开始觉得很害怕，不会是要学个编程语言吧。想想就头疼然后，2个小时后发现完全不是这样。 这里有个关于Markdown的介绍写得很简单易懂。 语法小结 标题 列表；有序列表和无序列表的区别。 引用；文本前加 &gt; 即可。 图片与链接；![添加描述]（链接） 即可点击描述访问链接。 粗体与斜体；粗体 ；斜体； 表格。Pandoc]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
@@ -106,8 +117,8 @@
         <category>test</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>test</tag>
+        <tag>github</tag>
       </tags>
   </entry>
 </search>
