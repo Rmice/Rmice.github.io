@@ -24,6 +24,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[测试模板是否可用]]></title>
+    <url>%2F2018%2F04%2F24%2Ftest%2F</url>
+    <content type="text"><![CDATA[test]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[日记功能测试；小书虫]]></title>
     <url>%2F2018%2F04%2F23%2F%E6%97%A5%E8%AE%B0%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%2F</url>
     <content type="text"><![CDATA[添加新功能1..yml下添加新menu； photo: categories/diary2.zh-Hans.xml下添加新的文字解析3.测试：写一篇，并分类为diary。4.事实证明很成功：如图：]]></content>
@@ -75,5 +86,17 @@
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F04%2F22%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[测试修改时间否可行]]></title>
+    <url>%2F2017%2F04%2F24%2F%E6%B5%8B%E8%AF%95%E4%BF%AE%E6%94%B9%E6%97%B6%E9%97%B4%2F</url>
+    <content type="text"><![CDATA[测试修改时间以达到分类重新排序的目的。也可以以此置顶。 测试分类有两个以上的显示方式]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+        <tag>test</tag>
+      </tags>
   </entry>
 </search>
