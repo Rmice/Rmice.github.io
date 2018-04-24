@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Rmice.github.io/"/>
-  <updated>2018-04-24T00:34:42.540Z</updated>
+  <updated>2018-04-24T05:18:36.527Z</updated>
   <id>http://Rmice.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>游戏的分类</title>
+    <link href="http://Rmice.github.io/2018/04/24/%E6%B8%B8%E6%88%8F%E5%88%86%E7%B1%BB/"/>
+    <id>http://Rmice.github.io/2018/04/24/游戏分类/</id>
+    <published>2018-04-24T05:18:36.305Z</published>
+    <updated>2018-04-24T05:18:36.527Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="游戏分类"><a href="#游戏分类" class="headerlink" title="游戏分类"></a>游戏分类</h3><h4 id="RPG：角色扮演游戏"><a href="#RPG：角色扮演游戏" class="headerlink" title="RPG：角色扮演游戏"></a>RPG：角色扮演游戏</h4><p>玩家扮演一个或数个角色，有完整的故事情节。更强调剧情发展和个人体验。<br>eg：《梦幻西游》日式（回合制）；《暗黑破坏神》美式。<br><a id="more"></a></p><h4 id="ACT：动作游戏"><a href="#ACT：动作游戏" class="headerlink" title="ACT：动作游戏"></a>ACT：动作游戏</h4><p>玩家控制游戏人物消灭敌人以过关的游戏，不追求情节。<br>eg：《魂斗罗》《三国志》</p><h4 id="AVG：冒险游戏"><a href="#AVG：冒险游戏" class="headerlink" title="AVG：冒险游戏"></a>AVG：冒险游戏</h4><p>由玩家控制游戏人物进行虚拟冒险的游戏。可以强调解谜题的重要性。<br>eg：《生化危机》</p><h4 id="此处略去一万字"><a href="#此处略去一万字" class="headerlink" title="此处略去一万字"></a>此处略去一万字</h4><h4 id="FPS-第一人称视角射击游戏"><a href="#FPS-第一人称视角射击游戏" class="headerlink" title="FPS:第一人称视角射击游戏"></a>FPS:第一人称视角射击游戏</h4><p>动作游戏的分支：<br>eg：《使命召唤》《cs》《守望先锋》</p><h4 id="MOBA：多人在线战术竞技游戏"><a href="#MOBA：多人在线战术竞技游戏" class="headerlink" title="MOBA：多人在线战术竞技游戏"></a>MOBA：多人在线战术竞技游戏</h4><p>即时战略游戏的子类<br>eg：《英雄联盟》《dota》</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;游戏分类&quot;&gt;&lt;a href=&quot;#游戏分类&quot; class=&quot;headerlink&quot; title=&quot;游戏分类&quot;&gt;&lt;/a&gt;游戏分类&lt;/h3&gt;&lt;h4 id=&quot;RPG：角色扮演游戏&quot;&gt;&lt;a href=&quot;#RPG：角色扮演游戏&quot; class=&quot;headerlink&quot; title=&quot;RPG：角色扮演游戏&quot;&gt;&lt;/a&gt;RPG：角色扮演游戏&lt;/h4&gt;&lt;p&gt;玩家扮演一个或数个角色，有完整的故事情节。更强调剧情发展和个人体验。&lt;br&gt;eg：《梦幻西游》日式（回合制）；《暗黑破坏神》美式。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="games" scheme="http://Rmice.github.io/categories/games/"/>
+    
+    
+      <category term="games" scheme="http://Rmice.github.io/tags/games/"/>
+    
+  </entry>
   
   <entry>
     <title>vim的简单使用</title>
